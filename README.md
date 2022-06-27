@@ -3,7 +3,6 @@
 <p>Espero que esteja tudo bem com você! Eu sou o <b>João Francisco</b>, também conhecido como <i>Chico</i>. Sou graduando em Engenharia Elétrica pela Universidade Federal do Maranhão (UFMA). Sou apaixonado por esportes - atualmente estou de volta aos treinos de Muay thai e aos treinos de handebol -, gosto muito de passar um tempo com a minha família e jogar vídeo game. 🎮<p> 
 Ahhh, <b>uma informação muito importante</b>: tenho 3 lindos cachorros 🐶🐶🐶<p>
 
-Atualmente estou aprendendo ferr.<p>
 
 ## Tecnologias Conhecidas 👨🏻‍💻
 <div style="display: inline_block"><br>
