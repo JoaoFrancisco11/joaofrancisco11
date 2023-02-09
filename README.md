@@ -25,7 +25,6 @@ Bom, é isso. Um abraço!
 
 ## Estou estudando no momento 📖📚
 <div>
-  <img align="center" alt="Joao-Tableau" height="30" width="80" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
   <img align="center" alt="Joao-AWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img alt="Joao-Kafka" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />        
   <img align="center" alt="Joao-Scala" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />
