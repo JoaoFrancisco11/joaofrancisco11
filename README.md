@@ -17,7 +17,8 @@ Bom, é isso. Um abraço!
   <img align="center" alt="Joao-MySQL" height="50" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Joao-Azure" height="30" width="100" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
    <img align="center" alt="Joao-Java" height="50" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Joao-C#" height="50" width="120" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eduyx&psig=AOvVaw1ByTBE2UJl7aj-1YoezMzx&ust=1675994028922000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDvxciqh_0CFQAAAAAdAAAAABAE">
+   <img align="center" alt="Joao-Java" height="50" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
   
 </div>
 
