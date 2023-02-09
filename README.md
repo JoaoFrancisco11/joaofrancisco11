@@ -18,8 +18,7 @@ Bom, é isso. Um abraço!
   <img align="center" alt="Joao-Azure" height="30" width="100" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
    <img align="center" alt="Joao-Java" height="50" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Joao-Java" height="50" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-   <img align="center" alt="Joao-Java" height="50" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-          
+            
           
   
 </div>
@@ -30,7 +29,8 @@ Bom, é isso. Um abraço!
   <img align="center" alt="Joao-GoogleAnalytics" height="30" width="130" src="https://img.shields.io/badge/Google%20Analytics-CC342D?style=for-the-badge&logo=google%20analytics&logoColor=white">
   <img align="center" alt="Joao-AWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img align="center" alt="Joao-ApachaKafka" height="30" width="120" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"> 
-  <img align="center" alt="Joao-Scala" height="30" width="120" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">  
+  <img align="center" alt="Joao-Scala" height="30" width="120" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">
+  <img align="center" alt="Joao-Java" height="30" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
  </div>
   
 
