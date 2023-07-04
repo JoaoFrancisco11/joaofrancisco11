@@ -1,6 +1,6 @@
-## Olá! 🖖🤙
+## Olá! 🤙
 
-<p>Espero que esteja tudo bem com você! Eu sou o <b>João Francisco</b>, também conhecido como <i>Chico</i>. Sou graduando em Engenharia Elétrica pela Universidade Federal do Maranhão (UFMA). Sou apaixonado por esportes - atualmente estou de volta aos treinos de Muay thai e aos treinos de handebol -, gosto muito de passar um tempo com a minha família e jogar vídeo game. 🎮<p> 
+<p>Espero que esteja tudo bem com você! Eu sou o <b>João Francisco</b>, também conhecido como <i>Chico</i>. Sou graduando em Engenharia Elétrica pela Universidade Federal do Maranhão (UFMA). Sou apaixonado por esportes - atualmente estou de volta aos treinos de Muay thai e aos treinos de handebol -, gosto muito de passar um tempo com a minha família e jogar vídeo game.<p> 
 Ahhh, <b>uma informação muito importante</b>: tenho 4 lindos cachorros 🐶🐶🐶<p>
 
 Em um certo ponto da minha graduação tive contato com Análise de dados, Desenvolvimento back-end e Engenharia de Dados, com isso acabei criando muita afinidade e gosto pela área de tecnologia. Hoje meus estudos estão voltados para área de desenvolvimento back-end com Java, C# e SQL.<p> 
@@ -8,29 +8,11 @@ Em um certo ponto da minha graduação tive contato com Análise de dados, Desen
 Estou <b>totalmente aberto a dicas ou conselhos sobre os meus códigos</b>.<p>
 Bom, é isso. Um abraço!
 
-
-## Tecnologias Conhecidas 👨🏻‍💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-PostgreSQL" height="50" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Joao-SQLServer" height="30" width="160" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <img align="center" alt="Joao-Python" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-MySQL" height="50" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Joao-Azure" height="30" width="100" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-   <img align="center" alt="Joao-Java" height="50" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Joao-Java" height="50" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-            
-          
-  
-</div>
-
-## Estou estudando no momento 📖📚
-<div>
-  <img align="center" alt="Joao-AWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img alt="Joao-Kafka" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />        
-  <img align="center" alt="Joao-Scala" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />
-  <img align="center" alt="Joao-Docker" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
- </div>
-  
+## Skills & Technologies:
+- Java, C# e Python;
+- PostgreSQL e MongoDB;
+- MySQL e SQL Server;
+- Azure.
 
 
 ## Você pode me encontrar nas minhas redes sociais
